@@ -13,10 +13,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/whitered932/pg-error-codes-ts.git"
+    "url": "git+https://github.com/whitered932/crypto-pay.git"
   },
   "bugs": {
-    "url": "https://github.com/whitered932/pg-error-codes-ts/issues"
+    "url": "https://github.com/whitered932/crypto-pay/issues"
   },
   "keywords": [
     "postgres",

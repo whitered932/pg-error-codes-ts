@@ -11,13 +11,6 @@
   "files": [
     "lib/*"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/whitered932/pg-error-codes-ts.git"
-  },
-  "bugs": {
-    "url": "https://github.com/whitered932/pg-error-codes-ts/issues"
-  },
   "keywords": [
     "postgres",
     "typescript",

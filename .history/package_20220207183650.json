@@ -1,6 +1,6 @@
 {
   "name": "pg-error-codes-ts",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "Postgres error codes for TypeScript",
   "main": "index.js",
   "scripts": {
@@ -11,13 +11,6 @@
   "files": [
     "lib/*"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/whitered932/pg-error-codes-ts.git"
-  },
-  "bugs": {
-    "url": "https://github.com/whitered932/pg-error-codes-ts/issues"
-  },
   "keywords": [
     "postgres",
     "typescript",
