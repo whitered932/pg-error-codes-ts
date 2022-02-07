@@ -1,0 +1,26 @@
+{
+  "name": "pg-error-codes-ts",
+  "version": "1.0.0",
+  "description": "Postgres error codes for TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "files": [
+    "lib/*"
+  ],
+  "keywords": [
+    "postgres",
+    "typescript",
+    "error",
+    "codes",
+    "nodejs"
+  ],
+  "author": "whitered932",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  }
+}
